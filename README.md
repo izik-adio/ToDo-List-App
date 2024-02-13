@@ -44,4 +44,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
+- This project was inspired by [CodSoft](https://www.codsoft.in/).
 - Thanks to the [PyQt6](https://riverbankcomputing.com/software/pyqt/) team for the powerful GUI framework.
