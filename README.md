@@ -38,7 +38,6 @@ This will launch the application, and the main window will appear, allowing you 
 
 ![Edit Task Window](./screenshots/edit_task_window.png)
 
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
