@@ -46,3 +46,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 - This project was inspired by [CodSoft](https://www.codsoft.in/).
 - Thanks to the [PyQt6](https://riverbankcomputing.com/software/pyqt/) team for the powerful GUI framework.
+
+## Contact
+
+For any questions, feedback, or suggestions, please feel free to reach out to [izik adio](https://www.linkedin.com/in/izik-adio/).
