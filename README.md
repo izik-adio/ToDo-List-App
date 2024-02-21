@@ -1,3 +1,5 @@
+![Cover Image](./screenshots/1.png)
+
 # ToDo-List App
 
 ## Overview
